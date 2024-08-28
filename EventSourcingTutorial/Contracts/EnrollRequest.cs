@@ -1,0 +1,1 @@
+public record EnrollRequest(Guid StudentId, string CourseName);

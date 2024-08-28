@@ -1,0 +1,1 @@
+public record UpdateStudentRequest(Guid StudentId, string FullName, string Email);
